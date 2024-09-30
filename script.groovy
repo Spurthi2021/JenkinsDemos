@@ -5,6 +5,6 @@ def TestApp(){
   echo "Testing the Application"
 }
 def DeployApp(){
-  echo "Deploying version ${params.Version}
+  echo "Deploying version ${params.Version}"
 }
 return this
