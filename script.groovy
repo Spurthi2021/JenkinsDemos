@@ -7,3 +7,4 @@ def TestApp(){
 def DeployApp(){
   echo "Deploying version ${params.Version}
 }
+return this
